@@ -1,0 +1,4 @@
+requests==2.26.0
+gate_api==4.22.4
+PyYAML==6.0
+pytest==6.2.5
